@@ -11,4 +11,6 @@ Click on the No-gui button to no-gui mod
 
 Click on the reset button to reset all changes
 
+Esc to close application
+
 P.S. solar_system.exe in the solar system folder
